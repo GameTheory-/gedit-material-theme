@@ -8,8 +8,8 @@
     <style name="text" foreground="#CDD3DE" background="#263238" />
     <style name="selection" foreground="#002B36" background="#657B83"/>
     <style name="cursor" foreground="#CDD3DE" />
-    <style name="current-line" background="#263238" />
-    <style name="line-numbers" foreground="#CDD3DE" background="#263238" />
+    <style name="current-line" background="#304047" />
+    <style name="line-numbers" foreground="#CDD3DE" background="#304047" />
     <style name="right-margin" foreground="#EEE8D5" background="#93A1A1"/>
     <style name="draw-spaces" foreground="#d3d7cf"/>
     <style name="background-pattern" background="#032F3B"/>
